@@ -14,7 +14,7 @@ categories:
     title: Others
     value: others
 addresses:
-  - line1: Branch, Country
+  - line1: Chennai, India
     line2: Building, Street
     line3: City,Code
 ---
