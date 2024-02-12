@@ -16,5 +16,5 @@ categories:
 addresses:
   - line1: Branch, Country
     line2: Building, Street
-    line3: City, Code
+    line3: City, Pin Code
 ---
