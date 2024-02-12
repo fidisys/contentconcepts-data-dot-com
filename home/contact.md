@@ -1,6 +1,5 @@
 ---
-title: Contact Us @ +91-9025472314. Address C4 Rams Flats, 8th Street,
-  Gopalapuram, Chennai 600086
+title: Contact Us
 call: +91-9025472314
 email: "info@contentconcepts.in "
 categories:
