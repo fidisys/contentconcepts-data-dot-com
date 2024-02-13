@@ -13,10 +13,13 @@ categories:
     title: Others
     value: others
 addresses:
-  - line1: Chennai, India
-    line2: info@contentconcepts.in
-    line3: +91-9025472314
   - line1: Princeton, New Jersey
     line2: 18 N Julien Street
     line3: info@contentconcepts.com
+  - line1: Chicago, IL
+    line2: 429 Superior Street
+    line3: info@contentconcepts.com
+  - line1: Chennai, India
+    line2: info@contentconcepts.in
+    line3: +91-9025472314
 ---
