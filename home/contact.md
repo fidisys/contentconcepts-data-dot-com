@@ -14,6 +14,6 @@ categories:
     value: others
 addresses:
   - line1: Chennai, India
-    line2: 3/3 Rams Flats, 8th Street, Gopalapuram, Chennai
+    line2: 3/3 Rams Flats, 8th Street, Gopalapuram, Chennai.
     line3: +91-9025472314
 ---
