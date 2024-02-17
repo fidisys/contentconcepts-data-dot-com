@@ -1,5 +1,5 @@
 ---
-navTitle: Website Content Editing & Proofreading
+navTitle: Website Content Editing
 navIndex: 2
 title: Website Copy Editing & Proofreading
 highlight: "Elevate your content to engage & succeed "
