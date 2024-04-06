@@ -2,7 +2,7 @@
 author_image: cc-logo-new.png
 author: ContentConcepts
 bio: "The Best and Affordable English Editing and Proofreading Services "
-title: Can you use AI tools for proofreading and editing research papers and thesis?
+title: Can you use AI tools for proofreading and editing research papers?
 date: 2024-04-05T18:30:00.000Z
 previewImage: my-first-design-1.png
 excerpt: "Using AI tools for proofreading your research papers? Though it will
@@ -27,7 +27,7 @@ seo:
     - Proofreading software
     - AI for research
 ---
-![](ai-tools-for-editing.png)
+![AI tools for proofreading and editing research papers ](ai-tools-for-editing.png "Can you use AI tools for proofreading and editing research papers and thesis?")
 
 When you want to use AI tools for proofreading or editing your research papers or thesis, please be aware of these risks and challenges that these tools might pose:
 
