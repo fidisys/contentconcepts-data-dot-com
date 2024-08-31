@@ -74,10 +74,10 @@ editingHighlights:
       id: 1
       description: Our English editing certificate is accepted by all major journals.
       image: confidential.svg
-    - title: Affordable Prices
+    - title: Affordable Price
       id: 2
-      description: Before you use our service, you can ask for free sample editing by
-        the subject editor
+      description: "Our manuscript editing fee is one of the best for the top quality
+        service among our competitors. "
       image: affordable.svg
 flashBannerCenter:
   quoteTitle: "Free English Editing Certificate - How to get? "
